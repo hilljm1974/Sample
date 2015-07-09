@@ -1,0 +1,3 @@
+c:\users\lisa\documents\visual studio 2013\Projects\PassportSample1\Database1\bin\Debug\Database1.dacpac
+c:\users\lisa\documents\visual studio 2013\Projects\PassportSample1\Database1\obj\Debug\Database1.dll
+c:\users\lisa\documents\visual studio 2013\Projects\PassportSample1\Database1\obj\Debug\Database1.pdb

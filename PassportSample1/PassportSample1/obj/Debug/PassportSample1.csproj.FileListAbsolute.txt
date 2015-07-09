@@ -1,0 +1,6 @@
+c:\users\lisa\documents\visual studio 2013\Projects\PassportSample1\PassportSample1\bin\Debug\PassportSample1.exe.config
+c:\users\lisa\documents\visual studio 2013\Projects\PassportSample1\PassportSample1\bin\Debug\PassportSample1.exe
+c:\users\lisa\documents\visual studio 2013\Projects\PassportSample1\PassportSample1\bin\Debug\PassportSample1.pdb
+c:\users\lisa\documents\visual studio 2013\Projects\PassportSample1\PassportSample1\obj\Debug\PassportSample1.exe
+c:\users\lisa\documents\visual studio 2013\Projects\PassportSample1\PassportSample1\obj\Debug\PassportSample1.pdb
+c:\users\lisa\documents\visual studio 2013\Projects\PassportSample1\PassportSample1\obj\Debug\PassportSample1.csprojResolveAssemblyReference.cache

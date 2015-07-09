@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassportSample1", "PassportSample1\PassportSample1.csproj", "{F244D9BF-2C0A-4FC6-85F1-14902BE6E45E}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database1", "Database1\Database1.sqlproj", "{C1C240C3-2CE5-49ED-86D0-B2ABDD202249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F244D9BF-2C0A-4FC6-85F1-14902BE6E45E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F244D9BF-2C0A-4FC6-85F1-14902BE6E45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F244D9BF-2C0A-4FC6-85F1-14902BE6E45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F244D9BF-2C0A-4FC6-85F1-14902BE6E45E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1C240C3-2CE5-49ED-86D0-B2ABDD202249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C240C3-2CE5-49ED-86D0-B2ABDD202249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C240C3-2CE5-49ED-86D0-B2ABDD202249}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C1C240C3-2CE5-49ED-86D0-B2ABDD202249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C240C3-2CE5-49ED-86D0-B2ABDD202249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1C240C3-2CE5-49ED-86D0-B2ABDD202249}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
